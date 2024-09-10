@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingObject", "MovingObjectClient\MovingObject.csproj", "{0FA4B791-3647-4A16-BCD7-F56DBC424F62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingObject (1)", "MovingObjectServer\MovingObject.csproj", "{25C63BB9-DAB2-4B46-91FC-15B38AB1BD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA4B791-3647-4A16-BCD7-F56DBC424F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA4B791-3647-4A16-BCD7-F56DBC424F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA4B791-3647-4A16-BCD7-F56DBC424F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA4B791-3647-4A16-BCD7-F56DBC424F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C63BB9-DAB2-4B46-91FC-15B38AB1BD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C63BB9-DAB2-4B46-91FC-15B38AB1BD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C63BB9-DAB2-4B46-91FC-15B38AB1BD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C63BB9-DAB2-4B46-91FC-15B38AB1BD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9250AFF3-AC1C-4172-B272-CE47A9F1114D}
+	EndGlobalSection
+EndGlobal

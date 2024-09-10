@@ -1,0 +1,20 @@
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Form1.resources
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.ClientForm.resources
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.exe
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\obj\Debug\MovingObject.pdb
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\bin\Debug\MovingObject.exe.config
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\bin\Debug\MovingObject.exe
+C:\Users\Engineer\Documents\Tugas\Pemrograman jaringan komputer\Moving Object\MovingObjectClient\bin\Debug\MovingObject.pdb
